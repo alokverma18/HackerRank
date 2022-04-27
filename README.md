@@ -1,2 +1,2 @@
-# basics
+# HackerRank Contests
 First Repository
